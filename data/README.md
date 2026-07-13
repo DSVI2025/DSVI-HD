@@ -22,7 +22,7 @@ systems and transfer learning.
 Each version follows the same layout:
 
 ```text
-target/vN/generated_data/
+data/target/vN/
 |-- user_profiles.csv
 |-- medical_records.csv
 |-- electronic_medical_records/
