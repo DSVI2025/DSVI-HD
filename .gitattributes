@@ -1,2 +1,0 @@
-data/target/**/health_data/*.csv filter=lfs diff=lfs merge=lfs -text
-data/target/**/insole_data/*.csv filter=lfs diff=lfs merge=lfs -text
