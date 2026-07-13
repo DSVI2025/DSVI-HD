@@ -33,8 +33,8 @@ If you use this dataset or the accompanying mixed-noise definition, please cite
 the dataset and the associated study using the metadata in
 [`CITATION.cff`](CITATION.cff). The associated study is:
 
-> “Transfer Learning in Differential Stochastic Variational Inequalities with
-> History-Dependent Responses.”
+> X. Chen, J. Guo, X. Guo, and G. Wang, “Transfer Learning in Differential
+> Stochastic Variational Inequalities with History-Dependent Responses,” 2026.
 
 ## License
 
